@@ -1,0 +1,17 @@
+a = 10
+b = 3
+print("a + b 的答案是：", a + b)
+print("a - b 的答案是：", a - b)
+print("a * b 的答案是：", a * b)
+print("a / b 的答案是：", a / b)
+print("a // b 的答案是：", a // b)
+print("a","%","b" "的答案是：", a % b)
+print("a ** b 的答案是：", a ** b)
+print("a == b 的答案是：", a == b)
+print("a != b 的答案是：", a != b)
+print("a >= b 的答案是：", a >= b)
+print("a <= b 的答案是：", a <= b)
+print("True and True 的答案是：", True and True)
+print("True and False 的答案是：", True and False)
+print("True or False 的答案是：", True or False)
+print("not True 的答案是：", not True)
